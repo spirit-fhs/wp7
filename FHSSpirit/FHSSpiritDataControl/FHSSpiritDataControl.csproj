@@ -51,7 +51,6 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="DataControlComments.cs" />
     <Compile Include="DataControlNews.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
