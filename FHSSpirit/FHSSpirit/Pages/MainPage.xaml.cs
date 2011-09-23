@@ -105,8 +105,13 @@ namespace FHSSpirit
 
         public string getURI()
         {
+            //connect with the real Windows Phone (only with the FHS certificate)
             //return "https://212.201.64.226:8443";
+
+            //connect with the Emulator and FHS VPN
             return "http://212.201.64.226:8080";
+
+            //use the Settings in the UI
             //return this.textBlockURI.Text;
         }
 
