@@ -99,7 +99,6 @@
     <Resource Include="PanoramaBackground.png" />
     <Resource Include="Images\Info-icon.png" />
     <Content Include="Images\appbar.add.rest.png" />
-    <Resource Include="Images\Chrysanthemum.jpg" />
     <Content Include="Images\appbar.cancel.rest.png" />
     <Content Include="Images\appbar.save.rest.png" />
     <Content Include="SplashScreenImage.jpg" />
