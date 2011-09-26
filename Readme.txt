@@ -1,6 +1,6 @@
 Ronny Schleicher, 23.10.2011, Windows Phone 7 FHS Spirit Application 
 
-Installation requirement:
+Installation requirements:
 
 +Visual Studio 2010
 +Windows Phone Developer Tools RTW
